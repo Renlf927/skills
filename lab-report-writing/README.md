@@ -1,6 +1,6 @@
-# Lab Report Skills
+# Lab Report Writing
 
-Skills for writing, revising, formatting, and checking lab reports.
+Skills for writing, revising, formatting, compiling, and submit-checking lab reports.
 
 ## Skills
 
