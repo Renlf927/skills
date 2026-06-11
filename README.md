@@ -12,6 +12,10 @@ skills/
 |   |   +-- SKILL.md
 |   |   +-- references/
 |   +-- README.md
++-- ppt-reviewer/             # Exam revision notes from past papers and lecture/PPT content
+|   +-- SKILL.md
+|   +-- agents/
+|   +-- references/
 ```
 
 ## Current Skills
@@ -19,6 +23,7 @@ skills/
 | Skill | Type | Purpose |
 | --- | --- | --- |
 | `lab-report-writing/lab-report-writer` | Lab report writing | Draft, revise, format, compile, and submit-check LaTeX/PDF lab reports. |
+| `ppt-reviewer` | Exam revision | Map past-paper questions back to lecture/PPT content and produce question-driven revision notes. |
 
 ## Naming Rule
 

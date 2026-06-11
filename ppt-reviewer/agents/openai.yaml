@@ -1,0 +1,3 @@
+display_name: PPT Reviewer
+short_description: Create revision notes by mapping past-paper questions back to lecture/PPT content.
+default_prompt: Create question-driven revision notes from past papers and lecture materials, with a question-to-source map and exam-ready knowledge modules.
